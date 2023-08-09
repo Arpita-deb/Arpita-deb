@@ -1,5 +1,7 @@
+![logo](https://www.canva.com/design/DAFpg2Fp16s/gi12xITGVOTGHRihNb_qbw/edit?utm_content=DAFpg2Fp16s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h1 align="center">Hi 👋, I'm Arpita Deb</h1>
-<h3 align="center">Self-motivated, organized, and efficient Data Analyst with knowledge of Excel, SQL, R, Python and Tableau.</h3>
+<h3 align="center">I'm a self-motivated, organized, and efficient Data Analyst with the data analytics toolkit under by belt. I have the knowledge of Excel, SQL, R, Python and Tableau, and looking for opportunities to use these skills.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
