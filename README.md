@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="arpitadeblinkedin" height="30" width="50" /></a>
 <a href="https://kaggle.com/arpita deb" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
-<a href="[https://tableau.com/@debarpita1811](https://public.tableau.com/app/profile/arpita.deb5031)" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="tableau" height="50" width="60" /></a>
+<a href="https://public.tableau.com/app/profile/arpita.deb5031" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="tableau" height="50" width="60" /></a>
 <a href="https://medium.com/@debarpita1811" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" height="40" width="50" /></a>
 </p>
 
