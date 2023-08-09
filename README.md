@@ -23,13 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitadeb1811" height="30" width="40" /></a>
-<a href="https://kaggle.com/arpita deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arpita deb" height="30" width="40" /></a>
-<a href="https://medium.com/@debarpita1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@debarpita1811" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="arpitadeb1811" height="30" width="50" /></a>
+<a href="https://kaggle.com/arpita deb" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
+<a href="https://medium.com/@debarpita1811" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@debarpita1811" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="canvasjs" width="60" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/8e/0c/51/8e0c51650b8a63f110fa7b09e699e9c4--r-logo-statistics.jpg" alt="r-project" width="40" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" alt="python" width="40" height="30"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-deb&show_icons=true&locale=en&layout=compact" alt="arpita-deb" /></p>
 
