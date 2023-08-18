@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arpita Deb</h1>
 
-<h3 align="center">I'm a self-motivated, organized, and efficient Data Analyst with the data analytics toolkit under by belt. I have the knowledge of Excel, SQL, R, Python and Tableau, and looking for opportunities to use these skills.</h3>
+<h3 align="center">I'm a self-motivated, organized, and efficient Data Analyst with the data analytics toolkit under my belt. I have the knowledge of Excel, SQL, R, Python and Tableau, and really excited to use these skills to solve real world problems.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
 
-- 🔭 I’m currently working on **Google Advanced Data Analytics Professional Certificate capstone project**
+- 🔭 I’ve completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
 
 
-- 🌱 I’m currently learning Data Science from **Google Advanced Data Analytics Professional Certificate**
+- 🌱 I’m currently working on capstone projects from **Google Advanced Data Analytics Professional Certificate**
 
 
-- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811)
+- 📝 I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
 
 
 - 📫 How to reach me [debarpita1811@gmail.com](debarpita1811@gmail.com)
