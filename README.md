@@ -1,7 +1,6 @@
  <p align="center">
 
 </p>
-<hr>
 <h1 align="center"> Arpita Deb </h1>
 <h3 align="center"> Data Analyst | Electrical Engineer </h3>
 <p align="center">
@@ -15,20 +14,22 @@
 
 <p align="center">
   <em>
-   An Analytical, independent and perpetually curious, Arpita brings technical expertise with a humane perspective to help make a better world by data driven decisions. An Electrical Engineer who's already familiar with important data analytics tools such as Spreadsheets, SQL, R, Python and Tableau, along with strong communication and problem-solving skills, critical thinking, collaboration and flexibility, looking for opportunities to these skills to use.
+  As an Analytical, independent and inherently curious Data Analyst with knowledge Spreadsheets, SQL, R, Python and Tableau, along with strong communication and problem-solving and critical thinking skills, I am looking for opportunities to apply my knowledge and technical expertise to help business and organizations make data driven decisions.
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my skills, and certificates. It is updated on regular basis.   
+   This Portfolio is a compilation of the Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains an overview of my skills, and certificates. 
 </p>
 <br><br><br>
+
+
 <img align="right" width=450px height=300px alt="side_sticker" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif"/>
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="30px">&nbsp;***About me ....***
-
-* I’ve completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
-* I’m currently working on capstone projects from **Google Advanced Data Analytics Professional Certificate**
+* Graduated as an Electrical Engineer in 2022
+* Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
+* I’m currently working on capstone project from **Google Advanced Data Analytics Professional Certificate**
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
-* Know about my experiences on my [Resume](https://docs.google.com/document/d/1fOf2xfGw7xjzlIHUj3xoUWnDDUUVrm3kid0b7Zx4QRM/edit?usp=sharing)
-* In my free time, I read books, watch movies or paint summer landscapes.
+* Know about my qualifications on my [Resume](https://docs.google.com/document/d/1fOf2xfGw7xjzlIHUj3xoUWnDDUUVrm3kid0b7Zx4QRM/edit?usp=sharing)
+* In my free time, I read books, watch movies or paint landscapes.
 <br><br><br>
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***My working tools...***
@@ -51,26 +52,34 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
   * **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, Seaborn), R (Dplyr, Tidyr, Ggplot2), SQL
 
-<br><br><br>
+<br><br>
 
 ## Projects
 
-<img align="left" width="250" height="150" src=""> **[London Bike Share - What do you need to know before heading out?](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87"> **[London Bike Share - What do you need to know before heading out?](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)**
+</p>10 Billion Londoners rode out in 2016 on these popular bikes in and around London. What are the reasons of popularity of this public bike service scheme? Do seasons and weather have anything to do with it? Let's find out with a quick data analysis with Tableau.
+</p>
+<br><br>
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2"> **[Sweet Symphony Dessert Shop - Data Analysis with SQL ](https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis.git)**
+</p>An analysis of a fictional dessert shop using Structured Query Language (SQL). Applied CRUD clauses to create, read, update and delete tables, rows and columns and using Data Manipulation Language answered various question regarding the dataset.
 
+</p>
+<br><br><br>
 
 ## Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/1" alt="Recent Article 1">
-<a t
-
+</p>
+<br><br><br>
 
 ## Certifications
-
-- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
-- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
+* [Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1046c-uXJ393swVEhrjjnpV20JxtkRTVK/view?usp=drive_link)
+* [Creating Interactive Tableau Dashboards](https://www.linkedin.com/learning/certificates/9007f74213a9596028750ae08e764d0f4bb8f85abd7bc49b265b68123e16ddf8)
+* [Python for Non-Programmers](https://www.linkedin.com/learning/certificates/e9c452c355fdd0d18175f7f893c54306b306758b201f70c22d464300d44ee97d)
+* [Relational Databases Essential Training](https://drive.google.com/file/d/1uXEgecbe2giUQpxB2VWB6Ad-Iy7lcIZg/view?usp=drive_link)
+* [Application of Data Analysis in Business with R Programming](https://drive.google.com/file/d/1tIQJtuuEfJLNItPPRyjOUr4XmTOgrsXa/view?usp=drive_link)
+* [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1Qkf1KQ9Q79Uv31fCmk34C4vp8oFzq2-a/view?usp=sharing)
+* [Bachelor of Technology in Electrical Engineering](https://drive.google.com/file/d/16ifkrcYjaCn6AmkfkPW3nXsjh0qWcsHC/view?usp=sharing)
 
 <hr>
 <p align="center">
