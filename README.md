@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
  <p align="center">
 
 </p>
 <hr>
-<h1 align="center">Hi 👋, I am Arpita Deb </h1>
+<h1 align="center"> Arpita Deb </h1>
 <h3 align="center"> Data Analyst | Electrical Engineer </h3>
 <p align="center">
 <a href="https://mail.google.com/mail/u/debarpita1811" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.4Xyv5tLTPseD6R1qFb7lVgHaHa?pid=ImgDet&w=880&h=880&rs=1" alt="arpitadebgmail" height="30" width="40" /></a>
@@ -52,7 +47,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***Core Competencies...***
 <p align="left"/>
 
-  * **Methodologies**:Data Wrangling,Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, A/B Testing, Machine Learning
+  * **Methodologies**: Data Wrangling,Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, A/B Testing, Machine Learning
 
   * **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, Seaborn), R (Dplyr, Tidyr, Ggplot2), SQL
 
@@ -60,7 +55,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src=""> **[London Bike Share - What do you need to know before heading out?]()**
+<img align="left" width="250" height="150" src=""> **[London Bike Share - What do you need to know before heading out?](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
