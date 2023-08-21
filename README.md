@@ -40,7 +40,6 @@
 <code><img width="100" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
 <code><img width="100" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
 </p>
 <br><br><br>
@@ -68,7 +67,16 @@
 <br><br><br>
 
 ## Articles
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2">**[Sweet Symphony Dessert Shop Analysis in SQL](https://medium.com/@debarpita1811/sweet-symphony-dessert-shop-analysis-in-sql-6387e9a4add8)**
+</p><br>
 
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87">**[London Bike Share - What do you need to know before heading out?](https://medium.com/@debarpita1811/london-bike-share-what-do-you-need-to-know-before-heading-out-2184f03913de)**
+</p><br>
+
+* <img align="left" width="100" height="50" src="">[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)
+</p><br>
+
+* <img align="left" width="100" height="50" src="">[So why do you want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)
 </p>
 <br><br><br>
 
