@@ -3,8 +3,8 @@
 </p>
 <h1 align="center"> Arpita Deb </h1>
 <h3 align="center"> Data Analyst | Electrical Engineer </h3>
+<p align="center">+91-9774059892 | debarpita1811@gmail.com </p>
 <p align="center">
-<a href="debarpita1811@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.4Xyv5tLTPseD6R1qFb7lVgHaHa?pid=ImgDet&w=880&h=880&rs=1" alt="arpitadebgmail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="arpitadeblinkedin" height="30" width="50" /></a>
 <a href="https://kaggle.com/arpitadeb1999" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
 <a href="https://public.tableau.com/app/profile/arpita.deb5031" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="tableau" height="50" width="60" /></a>
@@ -16,11 +16,10 @@
   <em>
   As an Analytical, independent and inherently curious Data Analyst with knowledge of Spreadsheets, SQL, R, Python and Tableau, along with strong communication, problem-solving and critical thinking skills, I am looking for opportunities to apply my knowledge and technical expertise to help business and organizations make data driven decisions.
 
-   This Portfolio is a compilation of the Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains an overview of my skills, and certificates. 
-</p>
+   This Portfolio is a compilation of the Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains an overview of my skills, and certificates. 
 <br><br><br>
 
-
+</p>
 <img align="right" width=450px height=300px alt="side_sticker" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif"/>
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="30px">&nbsp;***About me ....***
@@ -50,7 +49,7 @@
   * **Methodologies**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, A/B Testing, Machine Learning
 
   * **Languages**: SQL, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy,)
-
+</p>
 <br><br>
 
 ## Projects
