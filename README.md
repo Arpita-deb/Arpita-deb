@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-  As an Analytical, independent and inherently curious Data Analyst with knowledge Spreadsheets, SQL, R, Python and Tableau, along with strong communication and problem-solving and critical thinking skills, I am looking for opportunities to apply my knowledge and technical expertise to help business and organizations make data driven decisions.
+  As an Analytical, independent and inherently curious Data Analyst with knowledge of Spreadsheets, SQL, R, Python and Tableau, along with strong communication, problem-solving and critical thinking skills, I am looking for opportunities to apply my knowledge and technical expertise to help business and organizations make data driven decisions.
 
    This Portfolio is a compilation of the Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains an overview of my skills, and certificates. 
 </p>
@@ -47,9 +47,9 @@
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***Core Competencies...***
 <p align="left"/>
 
-  * **Methodologies**: Data Wrangling,Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, A/B Testing, Machine Learning
+  * **Methodologies**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, A/B Testing, Machine Learning
 
-  * **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, Seaborn), R (Dplyr, Tidyr, Ggplot2), SQL
+  * **Languages**: SQL, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy,)
 
 <br><br>
 
@@ -73,10 +73,10 @@
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87">**[London Bike Share - What do you need to know before heading out?](https://medium.com/@debarpita1811/london-bike-share-what-do-you-need-to-know-before-heading-out-2184f03913de)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="">[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/9204a296-9097-4f97-ab0e-e1b11aea2896">**[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="">[So why do you want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7eb55f2c-c64d-48e6-883d-e70d5cdfcb9b">**[So why do you want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)**
 </p>
 <br><br><br>
 
