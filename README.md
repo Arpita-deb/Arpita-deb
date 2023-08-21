@@ -4,7 +4,7 @@
 <h1 align="center"> Arpita Deb </h1>
 <h3 align="center"> Data Analyst | Electrical Engineer </h3>
 <p align="center">
-<a href="https://mail.google.com/mail/u/debarpita1811" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.4Xyv5tLTPseD6R1qFb7lVgHaHa?pid=ImgDet&w=880&h=880&rs=1" alt="arpitadebgmail" height="30" width="40" /></a>
+<a href="debarpita1811@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.4Xyv5tLTPseD6R1qFb7lVgHaHa?pid=ImgDet&w=880&h=880&rs=1" alt="arpitadebgmail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="arpitadeblinkedin" height="30" width="50" /></a>
 <a href="https://kaggle.com/arpitadeb1999" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
 <a href="https://public.tableau.com/app/profile/arpita.deb5031" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="tableau" height="50" width="60" /></a>
@@ -29,7 +29,6 @@
 * I’m currently working on capstone project from **Google Advanced Data Analytics Professional Certificate**
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
 * Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12396203/Arpita.Deb.Data.Analyst.Resume.2.pdf)
-)
 * In my free time, I read books, watch movies or paint landscapes.
 <br><br><br>
 
@@ -94,9 +93,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-deb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="arpita-deb" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpita-deb&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" width="410" /></p>
-<br><br><br><br><br>
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-deb&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpita-deb&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" width="410" height="200"</b></i></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita-deb&show_icons=true&locale=en&theme=chartreuse-dark" alt="arpita-deb" /></p>
 
