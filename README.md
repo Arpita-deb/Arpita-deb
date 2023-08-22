@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center"> Arpita Deb </h1>
-<h3 align="center"> Data Analyst | Electrical Engineer </h3>
+<h3 align="center"> Data Analyst | Data Scientist </h3>
 <p align="center">+91-9774059892 | debarpita1811@gmail.com </p>
 <p align="center">
 <a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="arpitadeblinkedin" height="30" width="50" /></a>
