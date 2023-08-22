@@ -23,11 +23,12 @@
 <img align="right" width=450px height=300px alt="side_sticker" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif"/>
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***About me ....***
-* Graduated as an Electrical Engineer in 2022
+
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
 * I’m currently working on capstone project from **Google Advanced Data Analytics Professional Certificate**
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
 * Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12396203/Arpita.Deb.Data.Analyst.Resume.2.pdf)
+* Have a Bachelor's Degreen in Electrical Engineering
 * In my free time, I read books, watch movies or paint landscapes.
 <br><br><br>
 
