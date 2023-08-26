@@ -62,9 +62,15 @@
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2"> **[Sweet Symphony Dessert Shop - Data Analysis with SQL ](https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis.git)**
 </p>An analysis of a fictional dessert shop using Structured Query Language (SQL). Applied CRUD clauses to create, read, update and delete tables, rows and columns and using Data Manipulation Language answered various question regarding the dataset.
-
 </p>
 <br><br><br>
+
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/2e0f5c42-d167-4ac4-ab81-d9d40015a3a8"> **[Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)**
+</p> Data Analysis of the collection of my books with Python and Tableau. Following the 6 phases of data analysis- Ask, Prepare, Process, Analysis, Share and Act - I've created the dataset on 184 books, cleaned them with Excel, transformed, manipulated and analysed with Python, created visualizations with Tableau, shared the insights and next steps to take in a consise and clear readme file on GitHub. 
+</p>
+<br><br><br>
+
+
 
 ## Articles
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2">**[Sweet Symphony Dessert Shop Analysis in SQL](https://medium.com/@debarpita1811/sweet-symphony-dessert-shop-analysis-in-sql-6387e9a4add8)**
