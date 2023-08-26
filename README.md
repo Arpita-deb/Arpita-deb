@@ -28,7 +28,7 @@
 * I’m currently working on capstone project from **Google Advanced Data Analytics Professional Certificate**
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
 * Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12396203/Arpita.Deb.Data.Analyst.Resume.2.pdf)
-* Have a Bachelor's Degreen in Electrical Engineering
+* Have a Bachelor's Degree in Electrical Engineering
 * In my free time, I read books, watch movies or paint landscapes.
 <br><br><br>
 
@@ -66,7 +66,7 @@
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/2e0f5c42-d167-4ac4-ab81-d9d40015a3a8"> **[Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)**
-</p> Data Analysis of the collection of my books with Python and Tableau. Following the 6 phases of data analysis- Ask, Prepare, Process, Analysis, Share and Act - I've created the dataset on 184 books, cleaned them with Excel, transformed, manipulated and analysed with Python, created visualizations with Tableau, shared the insights and next steps to take in a consise and clear readme file on GitHub. 
+</p> Data Analysis of the collection of my books with Python and Tableau. Following the 6 phases of data analysis- Ask, Prepare, Process, Analysis, Share and Act - I've created the dataset on 184 books, cleaned them with Excel, transformed, manipulated and analysed with Python, created visualizations with Tableau, shared the insights and next steps to take in a concise and clear readme file on GitHub. 
 </p>
 <br><br><br>
 
