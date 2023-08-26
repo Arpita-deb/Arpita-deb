@@ -70,7 +70,9 @@
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?]()**</p>
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?]()**
+</p>
+Data Analysis with Excel and R of a hypothetical dataset of a departmental store during Covid-19 period. Applied Data Cleaning, Manipulation and Visualization to find out which products were more profitable. Performed descriptive statistics on the data set to analyze trends and patterns. Used correlation matrices to find relation between various variables to provide recommendations for strategic decision making.
 </p>
 <br><br><br>
 
