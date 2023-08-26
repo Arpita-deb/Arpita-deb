@@ -70,6 +70,9 @@
 </p>
 <br><br><br>
 
+<img align="left" width="250" height="150" src=""> **[What were they buying on March 2020?]()**
+</p>
+<br><br><br>
 
 
 ## Articles
