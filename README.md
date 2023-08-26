@@ -70,7 +70,7 @@
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src=""> **[What were they buying on March 2020?]()**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?]()**</p>
 </p>
 <br><br><br>
 
