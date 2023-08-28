@@ -70,14 +70,23 @@
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?]()**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?](https://github.com/Arpita-deb/Departmental_store_analysis_in_R.git)**
 </p>
 Data Analysis with Excel and R of a hypothetical dataset of a departmental store during Covid-19 period. Applied Data Cleaning, Manipulation and Visualization to find out which products were more profitable. Performed descriptive statistics on the data set to analyze trends and patterns. Used correlation matrices to find relation between various variables to provide recommendations for strategic decision making.
 </p>
 <br><br><br>
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/4839a634-90f8-4870-8648-eda46dcad723"> **[How can a Wellness Technology Company play it smart?](https://github.com/Arpita-deb/Bellabeat-fitness-app.git)**
+</p>
+Analyze smart device usage data from non-Bellabeat products to gain insights on how people are using these smart devices and then selecting a Bellabeat product to apply these insights to create high level recommendations for Bellabeat marketing strategy.
+</p>
+<br><br><br>
 
 ## Articles
+
+* <img align="left" width="100" height="50" src="">**[Do I read all the books I buy?](https://medium.com/@debarpita1811/do-i-read-all-the-books-i-buy-7e4a13f8a6e9)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2">**[Sweet Symphony Dessert Shop Analysis in SQL](https://medium.com/@debarpita1811/sweet-symphony-dessert-shop-analysis-in-sql-6387e9a4add8)**
 </p><br>
 
@@ -90,6 +99,7 @@ Data Analysis with Excel and R of a hypothetical dataset of a departmental store
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7eb55f2c-c64d-48e6-883d-e70d5cdfcb9b">**[So why do you want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)**
 </p>
 <br><br><br>
+
 
 ## Certifications
 * [Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1046c-uXJ393swVEhrjjnpV20JxtkRTVK/view?usp=drive_link)
