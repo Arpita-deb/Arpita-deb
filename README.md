@@ -27,7 +27,7 @@
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
 * I’m currently working on capstone project from **Google Advanced Data Analytics Professional Certificate**
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
-* Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12396203/Arpita.Deb.Data.Analyst.Resume.2.pdf)
+* Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12465984/Arpita_Deb_Resume.pdf)
 * Have a Bachelor's Degree in Electrical Engineering
 * In my free time, I read books, watch movies or paint landscapes.
 <br><br><br>
