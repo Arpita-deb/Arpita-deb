@@ -60,7 +60,7 @@
 </p>
 <br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2"> **[Sweet Symphony Dessert Shop - Data Analysis with SQL ](https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2"> **[Sweet Symphony Dessert Shop - Database Design Project in SQL ](https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis.git)**
 </p>An analysis of a fictional dessert shop using Structured Query Language (SQL). Applied CRUD clauses to create, read, update and delete tables, rows and columns and using Data Manipulation Language answered various question regarding the dataset.
 </p>
 <br><br><br>
@@ -108,7 +108,7 @@ Analyze smart device usage data from non-Bellabeat products to gain insights on 
 * [Relational Databases Essential Training](https://drive.google.com/file/d/1uXEgecbe2giUQpxB2VWB6Ad-Iy7lcIZg/view?usp=drive_link)
 * [Application of Data Analysis in Business with R Programming](https://drive.google.com/file/d/1tIQJtuuEfJLNItPPRyjOUr4XmTOgrsXa/view?usp=drive_link)
 * [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1Qkf1KQ9Q79Uv31fCmk34C4vp8oFzq2-a/view?usp=sharing)
-* [Bachelor of Technology in Electrical Engineering](https://drive.google.com/file/d/16ifkrcYjaCn6AmkfkPW3nXsjh0qWcsHC/view?usp=sharing)
+* [Bachelor of Technology in Electrical Engineering](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=drive_link)
 
 <hr>
 <p align="center">
