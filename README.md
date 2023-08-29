@@ -108,7 +108,7 @@ Analyze smart device usage data from non-Bellabeat products to gain insights on 
 * [Relational Databases Essential Training](https://drive.google.com/file/d/1uXEgecbe2giUQpxB2VWB6Ad-Iy7lcIZg/view?usp=drive_link)
 * [Application of Data Analysis in Business with R Programming](https://drive.google.com/file/d/1tIQJtuuEfJLNItPPRyjOUr4XmTOgrsXa/view?usp=drive_link)
 * [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1Qkf1KQ9Q79Uv31fCmk34C4vp8oFzq2-a/view?usp=sharing)
-* [Bachelor of Technology in Electrical Engineering](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=drive_link)
+* [Bachelor of Technology in Electrical Engineering](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=sharing)
 
 <hr>
 <p align="center">
