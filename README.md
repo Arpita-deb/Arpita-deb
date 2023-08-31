@@ -96,7 +96,7 @@ Analyze smart device usage data from non-Bellabeat products to gain insights on 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/9204a296-9097-4f97-ab0e-e1b11aea2896">**[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7eb55f2c-c64d-48e6-883d-e70d5cdfcb9b">**[Why do I want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/47130613-af07-4aa8-b095-42b4c4fdfd09">**[Why do I want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)**
 </p>
 <br><br><br>
 
