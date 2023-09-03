@@ -25,10 +25,15 @@
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***About me ....***
 
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
-* I’m currently working on capstone project from **Google Advanced Data Analytics Professional Certificate**
+
+* I’m currently working on Machine Learning (capstone) project from **Google Advanced Data Analytics Professional Certificate**
+
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
+
 * Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12465984/Arpita_Deb_Resume.pdf)
+
 * Have a Bachelor's Degree in Electrical Engineering
+
 * In my free time, I read books, watch movies or paint landscapes.
 <br><br><br>
 
@@ -47,7 +52,7 @@
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***Core Competencies...***
 <p align="left"/>
 
-  * **Methodologies**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, A/B Testing, Machine Learning
+  * **Methodologies**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning
 
   * **Languages**: SQL, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy,)
 </p>
