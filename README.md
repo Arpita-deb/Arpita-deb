@@ -14,9 +14,9 @@
 
 <p align="center">
   <em>
-  As an Analytical, independent and inherently curious Data Analyst with knowledge of Spreadsheets, SQL, R, Python and Tableau, along with strong communication, problem-solving and critical thinking skills, I am looking for opportunities to apply my knowledge and technical expertise to help business and organizations make data driven decisions.
+  I am an analytical, independent and inherently curious Data Analyst with knowledge of Spreadsheets, SQL, R, Python and Tableau, along with strong communication, problem-solving and critical thinking skills. I believe in adding values by my works and make a positive difference in the world with data driven decisions.
 
-   This Portfolio is a compilation of the Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains an overview of my skills, and certificates. 
+   This Portfolio is a compilation of the Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains an overview of my skills and certificates. 
 <br><br><br>
 
 </p>
@@ -63,7 +63,7 @@
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87"> **[London Bike Share - What do you need to know before heading out?](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)**
 </p>10 Billion Londoners rode out in 2016 on these popular bikes in and around London. What are the reasons of popularity of this public bike service scheme? Do seasons and weather have anything to do with it? Let's find out with a quick data analysis with Tableau.
 </p>
-<br><br>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2"> **[Sweet Symphony Dessert Shop - Database Design Project in SQL ](https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis.git)**
 </p>An analysis of a fictional dessert shop using Structured Query Language (SQL). Applied CRUD clauses to create, read, update and delete tables, rows and columns and using Data Manipulation Language answered various question regarding the dataset.
