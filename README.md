@@ -60,6 +60,11 @@
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/11fe69db-4450-4dc4-a9fd-8bad45ffc47a"> **[Retaining Talents, Unleashing Possibilities - A study of Employee Retention in Salifort Motors](https://github.com/Arpita-deb/Salifort_motors_HR_analytics.git)**
+</p>Data Analysis of the key factors driving employee turnover, designing machine learning models (Logistic Regression, Decision Tree, Random Forest and XGBoost) to predict employee retention and sharing recommendations with the leadership team.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87"> **[London Bike Share - What do you need to know before heading out?](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)**
 </p>10 Billion Londoners rode out in 2016 on these popular bikes in and around London. What are the reasons of popularity of this public bike service scheme? Do seasons and weather have anything to do with it? Let's find out with a quick data analysis with Tableau.
 </p>
