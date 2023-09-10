@@ -16,7 +16,7 @@
   <em>
   I am an analytical, independent and inherently curious Data Analyst with knowledge of Spreadsheets, SQL, R, Python and Tableau, along with strong communication, problem-solving and critical thinking skills. I believe in adding values by my works and make a positive difference in the world with data driven decisions.
 
-   This Portfolio is a compilation of the Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains an overview of my skills and certificates. 
+   This Portfolio is a compilation of the Data Analysis and Data Science projects I have done for academic and self-learning purposes. This portfolio also contains an overview of my skills and certificates. 
 <br><br><br>
 
 </p>
@@ -26,15 +26,16 @@
 
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
 
-* I’m currently working on Machine Learning (capstone) project from **Google Advanced Data Analytics Professional Certificate**
+* I’m currently learning and working on Machine Learning projects.
 
-* I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811)
+* I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811).
 
-* Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12465984/Arpita_Deb_Resume.pdf)
+* Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/12568421/Arpita.Deb.Data.Analyst.Resume.pdf).
 
-* Have a Bachelor's Degree in Electrical Engineering
+* I have a [Bachelor's Degree](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=sharing) in Electrical Engineering.
 
-* In my free time, I read books, watch movies or paint landscapes.
+* In my free time I read, write or paint landscapes.
+
 <br><br><br>
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***My working tools...***
