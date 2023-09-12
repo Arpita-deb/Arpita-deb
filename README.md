@@ -95,6 +95,10 @@ Analyze smart device usage data from non-Bellabeat products to gain insights on 
 
 ## Articles
 
+* <img align="left" width="100" height="50" src="">**[Retaining Talents, Unleashing Possibilities](https://medium.com/@debarpita1811/retaining-talents-unleashing-possibilities-b7cd77af0851)**
+</p><br>)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/ee83d154-39fc-4c83-a1e6-aacb89be13c4">**[Do I read all the books I buy?](https://medium.com/@debarpita1811/do-i-read-all-the-books-i-buy-7e4a13f8a6e9)**
 </p><br>
 
