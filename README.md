@@ -53,16 +53,37 @@
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="40px">&nbsp;***Core Competencies...***
 <p align="left"/>
 
-  * **Methodologies**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning
+  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning, Artificial Intelligence, Data Architecture
 
-  * **Languages**: SQL, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Scipy,)
+  * **Technical Skills**: Excel, Pivot Tables, SQL, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau
+
+  * **Soft Skills**: Critical thinker, Detail oriented, Problem Solver, Strong verbal and written communication, Inherently Curious, Fast Learner, Independent worker and Self Motivated. 
 </p>
 <br><br>
 
 ## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/11fe69db-4450-4dc4-a9fd-8bad45ffc47a"> **[Retaining Talents, Unleashing Possibilities - A study of Employee Retention in Salifort Motors](https://github.com/Arpita-deb/Salifort_motors_HR_analytics.git)**
-</p>Data Analysis of the key factors driving employee turnover, designing machine learning models (Logistic Regression, Decision Tree, Random Forest and XGBoost) to predict employee retention and sharing recommendations with the leadership team.
+</p>What makes an employee leave a company? The senior leadership team of Salifort Motors are worried about their employee turnover. Using Exploratory Data Analysis(EDA) and building different Machine Learning Models(Logistic Regression, Decision Tree, Random Forest and XGBoost) We'll help them predict employee turnover rate and retain their talents.
+</p>
+<br><br><br>
+
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?](https://github.com/Arpita-deb/Departmental_store_analysis_in_R.git)**
+</p>
+The period of 2020 is marked by the global pandemic Covid-19. This is a Data Analysis with Excel and R of a hypothetical dataset of a departmental store during Covid-19. I've applied Data Cleaning, Manipulation and Visualization techniques to find out which products were more profitable. Performed descriptive statistics on the data set to analyze trends and patterns and used correlation matrices to find relation between various variables to provide recommendations for strategic business decision making.
+</p>
+<br><br><br>
+
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/4839a634-90f8-4870-8648-eda46dcad723"> **[How can a Wellness Technology Company play it smart?](https://github.com/Arpita-deb/Bellabeat-fitness-app.git)**
+</p>
+Analyzed smart device usage data from non-Bellabeat products to gain insights on how people are using these smart devices and then selecting a Bellabeat product to apply these insights to create high level recommendations for Bellabeat marketing strategy.
+</p>
+<br><br><br>
+
+## Mini Projects:
+
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Car-Price-Prediction/assets/139372731/19603b46-dee0-4460-8187-d38f4854338d"> **[Car Price Prediction using Linear Regression](https://github.com/Arpita-deb/Car-Price-Prediction.git)**
+</p>What affects the price of a car? Is it its engine size or the curb weight, or its horsepower, or a combination of many elements? Let's find out by using Linear Regression technique to predict the price of car models from 1985 Ward’s Automotive Yearbook.
 </p>
 <br><br><br>
 
@@ -77,21 +98,10 @@
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/2e0f5c42-d167-4ac4-ab81-d9d40015a3a8"> **[Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)**
-</p> Data Analysis of the collection of my books with Python and Tableau. Following the 6 phases of data analysis- Ask, Prepare, Process, Analysis, Share and Act - I've created the dataset on 184 books, cleaned them with Excel, transformed, manipulated and analysed with Python, created visualizations with Tableau, shared the insights and next steps to take in a concise and clear readme file on GitHub. 
+</p> Data Analysis of the collection of my books with Python and Tableau. Following the 6 phases of data analysis- Ask, Prepare, Process, Analysis, Share and Act - I've created the dataset on 184 books, cleaned them with Excel, transformed, manipulated and analysed with Python, created visualizations with Tableau and shared the insights. 
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?](https://github.com/Arpita-deb/Departmental_store_analysis_in_R.git)**
-</p>
-Data Analysis with Excel and R of a hypothetical dataset of a departmental store during Covid-19 period. Applied Data Cleaning, Manipulation and Visualization to find out which products were more profitable. Performed descriptive statistics on the data set to analyze trends and patterns. Used correlation matrices to find relation between various variables to provide recommendations for strategic decision making.
-</p>
-<br><br><br>
-
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/4839a634-90f8-4870-8648-eda46dcad723"> **[How can a Wellness Technology Company play it smart?](https://github.com/Arpita-deb/Bellabeat-fitness-app.git)**
-</p>
-Analyze smart device usage data from non-Bellabeat products to gain insights on how people are using these smart devices and then selecting a Bellabeat product to apply these insights to create high level recommendations for Bellabeat marketing strategy.
-</p>
-<br><br><br>
 
 ## Articles
 
