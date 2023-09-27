@@ -26,7 +26,7 @@
 
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
 
-* I’m currently learning and working on Machine Learning projects.
+* I'm currently honing my SQL skills with 'PostgreSQL for Everybody Specialization' on Coursera.
 
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811).
 
