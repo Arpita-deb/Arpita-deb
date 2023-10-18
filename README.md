@@ -44,9 +44,13 @@
 <code><img width="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="50" src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png"></code>
 <code><img width="100" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
 <code><img width="100" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/plot_ly/plot_ly-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/canva/canva-ar21.svg"> </code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gnu_bash/gnu_bash-ar21.svg"> </code>
+<code><img height="50" src="https://shutterstock.7eer.net/c/38919/1636620/1305?trafcat=T3&trafsrc=Direct&u=https://www.shutterstock.com/image-photo/2182372041&sharedid=www.vecteezy.com&subId1=search-top&subId2=e12a47ad-0d79-42dc-b792-e94d66034827&adtype=vector&adplacement=SRP&subId3=postgresql_2182372041_top"> </code>
 </p>
 <br><br><br>
 
