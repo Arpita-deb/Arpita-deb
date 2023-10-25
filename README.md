@@ -26,7 +26,7 @@
 
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
 
-* I'm currently honing my SQL skills with 'PostgreSQL for Everybody Specialization' on Coursera.
+* I'm recently completed my 'PostgreSQL for Everybody Specialization' on Coursera and now working on some real-world projects.
 
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811).
 
@@ -58,9 +58,9 @@
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***Core Competencies***
 <p align="left"/>
 
-  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning, Artificial Intelligence, Data Architecture
+  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Generating Text Data and creating Indexes, NoSQL databases
 
-  * **Technical Skills**: Excel, Pivot Tables, SQL, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau
+  * **Technical Skills**: Excel, Pivot Tables, SQL, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Linux/BASH, PostgreSQL
 
   * **Soft Skills**: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal and written communication, Inherently Curious, Fast Learner, Independent and Self Motivated. 
 </p>
@@ -131,6 +131,7 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 
 ## Certifications
+* [PostgreSQL for Everybody](https://drive.google.com/file/d/1-IKyIsq4Sb0I2GTSICQRzaT-cqb22Lpt/view?usp=sharing)
 * [Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1046c-uXJ393swVEhrjjnpV20JxtkRTVK/view?usp=drive_link)
 * [Creating Interactive Tableau Dashboards](https://www.linkedin.com/learning/certificates/9007f74213a9596028750ae08e764d0f4bb8f85abd7bc49b265b68123e16ddf8)
 * [Python for Non-Programmers](https://www.linkedin.com/learning/certificates/e9c452c355fdd0d18175f7f893c54306b306758b201f70c22d464300d44ee97d)
