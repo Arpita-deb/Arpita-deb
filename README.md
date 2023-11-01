@@ -67,6 +67,10 @@
 <br><br>
 
 ## Projects
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/6e29482e-fa46-4ac1-8636-c236d9eae326"> **[From Spreadsheet to Database - creating database design and normalizing a csv file](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
+</p> Removing vertical representation and replication of data from a database, by normalizing it upto third normal form (3NF). Creating SQL script to automate the task of creating, reading, updating and deleting data from Books_Management database.
+</p>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/11fe69db-4450-4dc4-a9fd-8bad45ffc47a"> **[Retaining Talents, Unleashing Possibilities - A study of Employee Retention in Salifort Motors](https://github.com/Arpita-deb/Salifort_motors_HR_analytics.git)**
 </p>What makes an employee leave a company? The senior leadership team of Salifort Motors are worried about their employee turnover. Using Exploratory Data Analysis(EDA) and building different Machine Learning Models(Logistic Regression, Decision Tree, Random Forest and XGBoost) We'll help them predict employee turnover rate and retain their talents.
@@ -109,6 +113,8 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 
 ## Articles
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/6e29482e-fa46-4ac1-8636-c236d9eae326">**[From Spreadsheet to Database](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76)**
+</p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/11fe69db-4450-4dc4-a9fd-8bad45ffc47a">**[Retaining Talents, Unleashing Possibilities](https://medium.com/@debarpita1811/retaining-talents-unleashing-possibilities-b7cd77af0851)**
 </p><br>
