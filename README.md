@@ -113,6 +113,10 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 
 ## Articles
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/ec8311fd-e8c9-41d0-84b6-d20d4f66019f">**[6 Months into Data Analytics and What do I think about it?](https://medium.com/@arpita_deb/6-months-into-data-analytics-and-what-do-i-think-about-it-6c54baea5017)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/6e29482e-fa46-4ac1-8636-c236d9eae326">**[From Spreadsheet to Database](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76)**
 </p><br>
 
