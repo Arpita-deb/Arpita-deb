@@ -126,9 +126,6 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/ee83d154-39fc-4c83-a1e6-aacb89be13c4">**[Do I read all the books I buy?](https://medium.com/@debarpita1811/do-i-read-all-the-books-i-buy-7e4a13f8a6e9)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2">**[Sweet Symphony Dessert Shop Analysis in SQL](https://medium.com/@debarpita1811/sweet-symphony-dessert-shop-analysis-in-sql-6387e9a4add8)**
-</p><br>
-
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87">**[London Bike Share - What do you need to know before heading out?](https://medium.com/@debarpita1811/london-bike-share-what-do-you-need-to-know-before-heading-out-2184f03913de)**
 </p><br>
 
