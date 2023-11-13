@@ -28,7 +28,7 @@
 
 * I'm recently completed my 'PostgreSQL for Everybody Specialization' on Coursera and now working on some real-world projects.
 
-* I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@debarpita1811).
+* I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@arpita_deb).
 
 * Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/13161522/Resume_Arpita_Deb_Business_Analyst.pdf)
 
