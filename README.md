@@ -26,11 +26,11 @@
 
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
 
-* I'm recently completed my 'PostgreSQL for Everybody Specialization' on Coursera and now working on some real-world projects.
+* I am currently working on Comprehensive analysis of Netflix data in PostgreSQL.
 
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@arpita_deb).
 
-* Know about my qualifications on my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/13161522/Resume_Arpita_Deb_Business_Analyst.pdf)
+* Know about my qualifications from my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/13161522/Resume_Arpita_Deb_Business_Analyst.pdf)
 
 * I have a [Bachelor's Degree](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=sharing) in Electrical Engineering.
 
