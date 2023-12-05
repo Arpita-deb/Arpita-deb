@@ -60,15 +60,16 @@
 
   * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Generating Text Data and creating Indexes, NoSQL databases
 
-  * **Technical Skills**: Excel, Pivot Tables, SQL, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Linux/BASH, PostgreSQL
+  * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Datawrapper, Linux/BASH
 
   * **Soft Skills**: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal and written communication, Inherently Curious, Fast Learner, Independent and Self Motivated. 
 </p>
 <br><br>
 
 ## Projects
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/6e29482e-fa46-4ac1-8636-c236d9eae326"> **[From Spreadsheet to Database - creating database design and normalizing a csv file](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
-</p> Removing vertical representation and replication of data from a database, by normalizing it upto third normal form (3NF). Creating SQL script to automate the task of creating, reading, updating and deleting data from Books_Management database.
+
+<img align="left" width="250" height="150" src="https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-2014-present.jpg"> **[Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git))**
+</p> Using Postgresql I analyzed and normalized the Netflix Streaming data, which contains information about the titles, genres, ratings, and countries of the streaming content. I then used Datawrapper and Tableau to create interactive and engaging visualizations of the streaming trends, such as the most popular genres, the distribution of ratings, and the growth of content over time.
 </p>
 <br><br><br>
 
@@ -90,6 +91,11 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 <br><br><br>
 
 ## Mini Projects:
+
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/6e29482e-fa46-4ac1-8636-c236d9eae326"> **[From Spreadsheet to Database - creating database design and normalizing a csv file](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
+</p> Removing vertical representation and replication of data from a database, by normalizing it upto third normal form (3NF). Creating SQL script to automate the task of creating, reading, updating and deleting data from Books_Management database.
+</p>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Car-Price-Prediction/assets/139372731/19603b46-dee0-4460-8187-d38f4854338d"> **[Car Price Prediction using Linear Regression](https://github.com/Arpita-deb/Car-Price-Prediction.git)**
 </p>What affects the price of a car? Is it its engine size or the curb weight, or its horsepower, or a combination of many elements? Let's find out by using Linear Regression technique to predict the price of car models from 1985 Ward’s Automotive Yearbook.
@@ -113,6 +119,15 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 
 ## Articles
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/d52f29dc-dce1-4665-b4b5-baf5f995f374">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 3: Data Analysis— Extracting Facts from Figures](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-f2e2becf1c21)**
+</p><br>
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/cf99d735-0250-4ac8-9781-a85aa624f30b">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 2 — Designing Database to Optimize SQL Queries](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-9a0fcf9724f2)**
+</p><br>
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/020af0ba-54ef-46d9-86ef-6d0b3cbab0b1">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 1 : Data Cleaning - The Key to Unlocking Insights](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-aa62266a256d)**
+</p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/ec8311fd-e8c9-41d0-84b6-d20d4f66019f">**[6 Months into Data Analytics and What do I think about it?](https://medium.com/@arpita_deb/6-months-into-data-analytics-and-what-do-i-think-about-it-6c54baea5017)**
 </p><br>
