@@ -68,23 +68,23 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://logos-world.net/wp-content/uploads/2020/04/Netflix-Logo-2014-present.jpg"> **[Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git))**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/5c9d0092-0552-46c8-ad77-9df0cc9a8e31"> **[Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git))**
 </p> Using Postgresql I analyzed and normalized the Netflix Streaming data, which contains information about the titles, genres, ratings, and countries of the streaming content. I then used Datawrapper and Tableau to create interactive and engaging visualizations of the streaming trends, such as the most popular genres, the distribution of ratings, and the growth of content over time.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/11fe69db-4450-4dc4-a9fd-8bad45ffc47a"> **[Retaining Talents, Unleashing Possibilities - A study of Employee Retention in Salifort Motors](https://github.com/Arpita-deb/Salifort_motors_HR_analytics.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7d72cbe-2e3d-4bfe-972c-d1b4606809c3"> **[Retaining Talents, Unleashing Possibilities - A study of Employee Retention in Salifort Motors](https://github.com/Arpita-deb/Salifort_motors_HR_analytics.git)**
 </p>What makes an employee leave a company? The senior leadership team of Salifort Motors are worried about their employee turnover. Using Exploratory Data Analysis(EDA) and building different Machine Learning Models(Logistic Regression, Decision Tree, Random Forest and XGBoost) We'll help them predict employee turnover rate and retain their talents.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7183869-b2cb-4c6a-8049-218ff340c677"> **[What were they buying on March 2020?](https://github.com/Arpita-deb/Departmental_store_analysis_in_R.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/06c8970b-28e9-4e73-aa67-7198a22094cf"> **[What were they buying on March 2020?](https://github.com/Arpita-deb/Departmental_store_analysis_in_R.git)**
 </p>
 The period of 2020 is marked by the global pandemic Covid-19. This is a Data Analysis with Excel and R of a hypothetical dataset of a departmental store during Covid-19. I've applied Data Cleaning, Manipulation and Visualization techniques to find out which products were more profitable. Performed descriptive statistics on the data set to analyze trends and patterns and used correlation matrices to find relation between various variables to provide recommendations for strategic business decision making.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/4839a634-90f8-4870-8648-eda46dcad723"> **[How can a Wellness Technology Company play it smart?](https://github.com/Arpita-deb/Bellabeat-fitness-app.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/c7111d1b-e0e5-43ed-8fb6-f0b6bec8ed83"> **[How can a Wellness Technology Company play it smart?](https://github.com/Arpita-deb/Bellabeat-fitness-app.git)**
 </p>
 Analyzed smart device usage data from non-Bellabeat products to gain insights on how people are using these smart devices and then selecting a Bellabeat product to apply these insights to create high level recommendations for Bellabeat marketing strategy.
 </p>
@@ -92,7 +92,7 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Mini Projects:
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/6e29482e-fa46-4ac1-8636-c236d9eae326"> **[From Spreadsheet to Database - creating database design and normalizing a csv file](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/56602af1-04fe-4185-90ad-9cda0afc0ab8"> **[From Spreadsheet to Database - creating database design and normalizing a csv file](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
 </p> Removing vertical representation and replication of data from a database, by normalizing it upto third normal form (3NF). Creating SQL script to automate the task of creating, reading, updating and deleting data from Books_Management database.
 </p>
 <br><br><br>
@@ -102,21 +102,15 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87"> **[London Bike Share - What do you need to know before heading out?](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/8ae49bbb-f276-4a99-a6a2-57ec33c5b22a"> **[London Bike Share - What do you need to know before heading out?](https://github.com/Arpita-deb/London_Bike_Share_Tableau_EDA.git)**
 </p>10 Billion Londoners rode out in 2016 on these popular bikes in and around London. What are the reasons of popularity of this public bike service scheme? Do seasons and weather have anything to do with it? Let's find out with a quick data analysis with Tableau.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/bf20583e-2a4b-4e2d-b193-47f76dc0feb2"> **[Sweet Symphony Dessert Shop - Database Design Project in SQL ](https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis.git)**
-</p>An analysis of a fictional dessert shop using Structured Query Language (SQL). Applied CRUD clauses to create, read, update and delete tables, rows and columns and using Data Manipulation Language answered various question regarding the dataset.
-</p>
-<br><br><br>
-
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/2e0f5c42-d167-4ac4-ab81-d9d40015a3a8"> **[Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/03e8db0e-2e8a-411d-95ba-023917b024b7"> **[Do I read all the books I buy?](https://github.com/Arpita-deb/Do_I_read_all_the_books_I_buy.git)**
 </p> Data Analysis of the collection of my books with Python and Tableau. Following the 6 phases of data analysis- Ask, Prepare, Process, Analysis, Share and Act - I've created the dataset on 184 books, cleaned them with Excel, transformed, manipulated and analysed with Python, created visualizations with Tableau and shared the insights. 
 </p>
 <br><br><br>
-
 
 ## Articles
 
@@ -129,28 +123,27 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/020af0ba-54ef-46d9-86ef-6d0b3cbab0b1">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 1 : Data Cleaning - The Key to Unlocking Insights](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-aa62266a256d)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/ec8311fd-e8c9-41d0-84b6-d20d4f66019f">**[6 Months into Data Analytics and What do I think about it?](https://medium.com/@arpita_deb/6-months-into-data-analytics-and-what-do-i-think-about-it-6c54baea5017)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/e8b546b1-a029-40e3-aba3-055b79790e14">**[6 Months into Data Analytics and What do I think about it?](https://medium.com/@arpita_deb/6-months-into-data-analytics-and-what-do-i-think-about-it-6c54baea5017)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Books-Database-Normalization/assets/139372731/6e29482e-fa46-4ac1-8636-c236d9eae326">**[From Spreadsheet to Database](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/56602af1-04fe-4185-90ad-9cda0afc0ab8">**[From Spreadsheet to Database](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/11fe69db-4450-4dc4-a9fd-8bad45ffc47a">**[Retaining Talents, Unleashing Possibilities](https://medium.com/@debarpita1811/retaining-talents-unleashing-possibilities-b7cd77af0851)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7d72cbe-2e3d-4bfe-972c-d1b4606809c3">**[Retaining Talents, Unleashing Possibilities](https://medium.com/@debarpita1811/retaining-talents-unleashing-possibilities-b7cd77af0851)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/ee83d154-39fc-4c83-a1e6-aacb89be13c4">**[Do I read all the books I buy?](https://medium.com/@debarpita1811/do-i-read-all-the-books-i-buy-7e4a13f8a6e9)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/03e8db0e-2e8a-411d-95ba-023917b024b7">**[Do I read all the books I buy?](https://medium.com/@debarpita1811/do-i-read-all-the-books-i-buy-7e4a13f8a6e9)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sweet-Symphony-Dessert-Shop-SQL-Analysis/assets/139372731/0136ab97-9c1e-4c1b-bdf8-c1e454844f87">**[London Bike Share - What do you need to know before heading out?](https://medium.com/@debarpita1811/london-bike-share-what-do-you-need-to-know-before-heading-out-2184f03913de)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/8ae49bbb-f276-4a99-a6a2-57ec33c5b22a">**[London Bike Share - What do you need to know before heading out?](https://medium.com/@debarpita1811/london-bike-share-what-do-you-need-to-know-before-heading-out-2184f03913de)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/9204a296-9097-4f97-ab0e-e1b11aea2896">**[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/6cf6105d-eca2-457d-9fdd-7a1d8b078c5c">**[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)**
 </p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/47130613-af07-4aa8-b095-42b4c4fdfd09">**[Why do I want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)**
 </p>
 <br><br><br>
-
 
 ## Certifications
 * [PostgreSQL for Everybody](https://drive.google.com/file/d/1-IKyIsq4Sb0I2GTSICQRzaT-cqb22Lpt/view?usp=sharing)
