@@ -97,7 +97,7 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Car-Price-Prediction/assets/139372731/19603b46-dee0-4460-8187-d38f4854338d"> **[Car Price Prediction using Linear Regression](https://github.com/Arpita-deb/Car-Price-Prediction.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Car-Price-Prediction/assets/139372731/8b7fe502-df73-4845-a030-3e4e5da6d733"> **[Car Price Prediction using Linear Regression](https://github.com/Arpita-deb/Car-Price-Prediction.git)**
 </p>What affects the price of a car? Is it its engine size or the curb weight, or its horsepower, or a combination of many elements? Let's find out by using Linear Regression technique to predict the price of car models from 1985 Ward’s Automotive Yearbook.
 </p>
 <br><br><br>
