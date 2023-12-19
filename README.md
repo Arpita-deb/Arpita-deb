@@ -92,6 +92,11 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Mini Projects:
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages/assets/139372731/44903ac1-6b02-40db-bfd9-dad6645768a0"> **[Merry Christmas All Around the World](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages.git)**
+</p> This repository contains the documentation of my dashboard creation process as a part of the Romanian Data Tribe Challenge for 2023. Using the data, they've provided as well as some external data from other resources, I’ve designed a dashboard that displays the different ways of saying Merry Christmas across the globe, using Tableau and Canva.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/56602af1-04fe-4185-90ad-9cda0afc0ab8"> **[From Spreadsheet to Database - creating database design and normalizing a csv file](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
 </p> Removing vertical representation and replication of data from a database, by normalizing it upto third normal form (3NF). Creating SQL script to automate the task of creating, reading, updating and deleting data from Books_Management database.
 </p>
