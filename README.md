@@ -14,9 +14,7 @@
 
 <p align="center">
   <em>
-  I am an analytical, independent and inherently curious Data Analyst with knowledge of Spreadsheets, SQL, R, Python and Tableau, along with strong communication, problem-solving and critical thinking skills. I believe in adding values by my works and make a positive difference in the world with data driven decisions.
-
-   This Portfolio is a compilation of the Data Analysis and Data Science projects I have done for academic and self-learning purposes. This portfolio also contains an overview of my skills and certificates. 
+ As a curious and independent Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Tableau, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow. This Portfolio showcases the Data Analysis and Data Science projects I have completed for academic and self-learning purposes. It also provides an overview of my skills and certificates.
 <br><br><br>
 
 </p>
@@ -34,7 +32,7 @@
 
 * I have a [Bachelor's Degree](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=sharing) in Electrical Engineering.
 
-* In my free time I read, write or paint landscapes.
+* When I'm not analyzing data, I enjoy reading, knitting, and painting. These hobbies help me stay curious, calm, and creative, which in turn helps me excel at my work.
 
 <br><br><br>
 
