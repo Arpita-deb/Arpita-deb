@@ -90,6 +90,11 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Mini Projects:
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Creating-Christmas-Card-in-R/assets/139372731/cff47923-ad0b-45be-a0bb-0e54c3515ae0"> **[R You Ready for Christmas? : A Guide to Create Custom Cards with R](https://github.com/Arpita-deb/Creating-Christmas-Card-in-R.git)**
+</p> Inspired by an article about how to create a Christmas card in R, I've created my own Christmas Card using ggplot() in R Programming Language.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages/assets/139372731/44903ac1-6b02-40db-bfd9-dad6645768a0"> **[Merry Christmas All Around the World](https://github.com/Arpita-deb/How-to-say-merry-christmas-in-different-languages.git)**
 </p> This repository contains the documentation of my dashboard creation process as a part of the Romanian Data Tribe Challenge for 2023. Using the data, they've provided as well as some external data from other resources, I’ve designed a dashboard that displays the different ways of saying Merry Christmas across the globe, using Tableau and Canva.
 </p>
@@ -116,6 +121,9 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 <br><br><br>
 
 ## Articles
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Creating-Christmas-Card-in-R/assets/139372731/cff47923-ad0b-45be-a0bb-0e54c3515ae0">**[R You Ready for Christmas? : A Guide to Create Custom Cards with R](https://medium.com/@arpita_deb/r-you-ready-for-christmas-6a4191a412c1)**
+</p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/d52f29dc-dce1-4665-b4b5-baf5f995f374">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 3: Data Analysis— Extracting Facts from Figures](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-f2e2becf1c21)**
 </p><br>
