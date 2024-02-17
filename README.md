@@ -124,6 +124,9 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Articles
 
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/5c6e86d8-3b70-4f28-8ab9-b6f9b10067a3">**[Data Analytics Career Advice: Lessons Learned from My Journey](https://medium.com/@arpita_deb/data-analytics-career-advice-lessons-learned-from-my-journey-3af99a3a9036)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Creating-Christmas-Card-in-R/assets/139372731/cff47923-ad0b-45be-a0bb-0e54c3515ae0">**[R You Ready for Christmas? : A Guide to Create Custom Cards with R](https://medium.com/@arpita_deb/r-you-ready-for-christmas-6a4191a412c1)**
 </p><br>
 
