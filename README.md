@@ -24,13 +24,11 @@
 
 * Learn about me with this short [video resume](https://drive.google.com/file/d/1N_teOqmxVHWSd4yaAR5BztvVfYxGlDpj/view?usp=sharing).
 
-* My natural curiosity motivates me, constructive feedback directs me, and constant improvement advances me.
-
+* I am currently learning about Time Series Analysis from the State University of New York on Coursera.
+  
 * Completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**
   
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@arpita_deb).
-
-* Know about my qualifications from my [Resume](https://github.com/Arpita-deb/Arpita-deb/files/13614332/Arpita_Deb_Data_Analyst_Resume.pdf).
 
 * I have a [Bachelor's Degree](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=sharing) in Electrical Engineering.
 
