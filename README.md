@@ -90,6 +90,12 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Mini Projects:
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Water-Salinity-Tableau-Dashboard/assets/139372731/591b4215-22e4-4c80-bed6-8bb2366591de"> **[Navigating the Saline Waters: Sundarbans 2019](https://github.com/Arpita-deb/Water-Salinity-Tableau-Dashboard.git)**
+</p> This interactive dashboard is designed to analyze the salinity levels of tube wells and rivers within the North 24 Parganas and South 24 Parganas districts, collectively known as the Sundarban Region of the Indian Subcontinent. 
+</p>
+<br><br><br>
+
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Creating-Christmas-Card-in-R/assets/139372731/cff47923-ad0b-45be-a0bb-0e54c3515ae0"> **[R You Ready for Christmas? : A Guide to Create Custom Cards with R](https://github.com/Arpita-deb/Creating-Christmas-Card-in-R.git)**
 </p> Inspired by an article about how to create a Christmas card in R, I've created my own Christmas Card using ggplot() in R Programming Language.
 </p>
