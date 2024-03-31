@@ -66,6 +66,11 @@
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/98933352-21be-4988-a3ad-31f8eebffcec"> **[Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git))**
+</p> In this analysis, I employed Microsoft Excel and Power BI to probe into the regional sales in the United States for a certain fictional company, utilized Pivot Tables and Data Visualization, and applied R Programming Language for sales forecasting.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/5c9d0092-0552-46c8-ad77-9df0cc9a8e31"> **[Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git))**
 </p> Using Postgresql I analyzed and normalized the Netflix Streaming data, which contains information about the titles, genres, ratings, and countries of the streaming content. I then used Datawrapper and Tableau to create interactive and engaging visualizations of the streaming trends, such as the most popular genres, the distribution of ratings, and the growth of content over time.
 </p>
@@ -126,6 +131,12 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 <br><br><br>
 
 ## Articles
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/899213a9-a2dd-4e8e-ac09-7ff5fe62be50">**[The United States Regional Sales Analysis Part 1 — Exploring with Excel and Power BI](https://medium.com/@arpita_deb/the-united-states-regional-sales-analysis-29c967ae31bf)**
+</p><br>
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/e7ad1e7a-f642-4893-9714-ab065d9db9fa">**[The United States Regional Sales Forecasting Part 2 — Predicting future sales using R](https://medium.com/@arpita_deb/the-united-states-regional-sales-forecasting-0c9341f62f28)**
+</p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/5c6e86d8-3b70-4f28-8ab9-b6f9b10067a3">**[Data Analytics Career Advice: Lessons Learned from My Journey](https://medium.com/@arpita_deb/data-analytics-career-advice-lessons-learned-from-my-journey-3af99a3a9036)**
 </p><br>
