@@ -66,12 +66,12 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/98933352-21be-4988-a3ad-31f8eebffcec"> **[Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git))**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/98933352-21be-4988-a3ad-31f8eebffcec"> **[Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git)**
 </p> In this analysis, I employed Microsoft Excel and Power BI to probe into the regional sales in the United States for a certain fictional company, utilized Pivot Tables and Data Visualization, and applied R Programming Language for sales forecasting.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/5c9d0092-0552-46c8-ad77-9df0cc9a8e31"> **[Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git))**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/5c9d0092-0552-46c8-ad77-9df0cc9a8e31"> **[Netflix Data Analysis: A Deep Dive into Streaming Trends](https://github.com/Arpita-deb/netflix-movies-and-tv-shows.git)**
 </p> Using Postgresql I analyzed and normalized the Netflix Streaming data, which contains information about the titles, genres, ratings, and countries of the streaming content. I then used Datawrapper and Tableau to create interactive and engaging visualizations of the streaming trends, such as the most popular genres, the distribution of ratings, and the growth of content over time.
 </p>
 <br><br><br>
@@ -144,13 +144,13 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Creating-Christmas-Card-in-R/assets/139372731/cff47923-ad0b-45be-a0bb-0e54c3515ae0">**[R You Ready for Christmas? : A Guide to Create Custom Cards with R](https://medium.com/@arpita_deb/r-you-ready-for-christmas-6a4191a412c1)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/d52f29dc-dce1-4665-b4b5-baf5f995f374">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 3: Data Analysis— Extracting Facts from Figures](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-f2e2becf1c21)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/020af0ba-54ef-46d9-86ef-6d0b3cbab0b1">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 1 : Data Cleaning - The Key to Unlocking Insights](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-aa62266a256d)**
 </p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/cf99d735-0250-4ac8-9781-a85aa624f30b">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 2 — Designing Database to Optimize SQL Queries](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-9a0fcf9724f2)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/020af0ba-54ef-46d9-86ef-6d0b3cbab0b1">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 1 : Data Cleaning - The Key to Unlocking Insights](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-aa62266a256d)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/d52f29dc-dce1-4665-b4b5-baf5f995f374">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 3: Data Analysis— Extracting Facts from Figures](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-f2e2becf1c21)**
 </p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/e8b546b1-a029-40e3-aba3-055b79790e14">**[6 Months into Data Analytics and What do I think about it?](https://medium.com/@arpita_deb/6-months-into-data-analytics-and-what-do-i-think-about-it-6c54baea5017)**
