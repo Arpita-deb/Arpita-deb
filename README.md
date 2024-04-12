@@ -132,6 +132,9 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Articles
 
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/067af77a-949c-4830-a523-99696a5aea5a">**[Conquering Procrastination in Your Job Search - Strategies for Tackling Difficult Tasks and Minimizing Delays](https://medium.com/@arpita_deb/conquering-procrastination-in-your-job-search-0f598b333f81)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/899213a9-a2dd-4e8e-ac09-7ff5fe62be50">**[The United States Regional Sales Analysis Part 1 — Exploring with Excel and Power BI](https://medium.com/@arpita_deb/the-united-states-regional-sales-analysis-29c967ae31bf)**
 </p><br>
 
