@@ -22,7 +22,7 @@
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***About me in 30 Seconds***
 
-* Learn about me with this short [video resume](https://drive.google.com/file/d/1FZcLgQOLv1zFBZWk8emooePrP6u-E5cC/view?usp=drive_link).
+* Learn about me with this short [video resume](https://drive.google.com/file/d/1FZcLgQOLv1zFBZWk8emooePrP6u-E5cC/view?usp=sharing).
 
 * I've recently completed *Practical Time Series Analysis* from the State University of New York on Coursera and currently enrolled in *Data Ethics, AI and Responsible Innovation* from The University of Edinburgh.
   
