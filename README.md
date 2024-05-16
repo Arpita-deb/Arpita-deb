@@ -2,10 +2,10 @@
 
 </p>
 <h1 align="center"> Arpita Deb </h1>
-<h3 align="center"> Data Analyst | Business Analyst </h3>
+<h3 align="center"> Data Analyst </h3>
 <p align="center">+91-9774059892 | debarpita1811@gmail.com </p>
 <p align="center">
-<a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" alt="arpitadeblinkedin" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/arpitadeb1811" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="arpitadeblinkedin" height="40" width="40" /></a>
 <a href="https://kaggle.com/arpitadeb1999" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="arpita deb" height="30" width="50" /></a>
 <a href="https://public.tableau.com/app/profile/arpita.deb5031" target="blank"><img align="center" src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-1024x704.png" alt="tableau" height="50" width="60" /></a>
 <a href="https://medium.com/@debarpita1811" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" height="40" width="50" /></a>
@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
- As a curious and independent Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Tableau, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow. This Portfolio showcases the Data Analysis and Data Science projects I have completed for academic and self-learning purposes. It also provides an overview of my skills and certificates.
+ As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Tableau, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow. This Portfolio showcases the Data Analysis and Data Science projects I have completed for academic and self-learning purposes. It also provides an overview of my skills and certificates.
 <br><br><br>
 
 </p>
@@ -24,7 +24,7 @@
 
 * Learn about me with this short [video resume](https://drive.google.com/file/d/1FZcLgQOLv1zFBZWk8emooePrP6u-E5cC/view?usp=sharing).
 
-* I've recently completed *Practical Time Series Analysis* from the State University of New York on Coursera and currently enrolled in *Data Ethics, AI and Responsible Innovation* from The University of Edinburgh.
+* I've recently completed *Alteryx Bootcamp* from Udemy and currently working on Projects as a Data Analyst Intern at Unified Mentor.
   
 * I have completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**.
   
@@ -58,7 +58,7 @@
 
   * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Generating Text Data and creating Indexes, NoSQL databases, Time Series Analysis.
 
-  * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Datawrapper, Linux/BASH.
+  * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Datawrapper, Alteryx.
 
   * **Soft Skills**: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal and written communication, Inherently Curious, Fast Learner, Independent and Self Motivated. 
 </p>
@@ -179,6 +179,7 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 <br><br><br>
 
 ## Certifications
+* [Alteryx Bootcamp](https://github.com/Arpita-deb/Arpita-deb/files/15329145/Alteryx.Bootcamp.Certificate.pdf)
 * [PostgreSQL for Everybody](https://drive.google.com/file/d/1-IKyIsq4Sb0I2GTSICQRzaT-cqb22Lpt/view?usp=sharing)
 * [Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1046c-uXJ393swVEhrjjnpV20JxtkRTVK/view?usp=drive_link)
 * [Creating Interactive Tableau Dashboards](https://www.linkedin.com/learning/certificates/9007f74213a9596028750ae08e764d0f4bb8f85abd7bc49b265b68123e16ddf8)
