@@ -179,7 +179,7 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 <br><br><br>
 
 ## Certifications
-* [Alteryx Bootcamp](https://github.com/Arpita-deb/Arpita-deb/files/15329145/Alteryx.Bootcamp.Certificate.pdf)
+* [Alteryx Bootcamp](https://drive.google.com/file/d/1yYGSbue3g1cfgUf_a5148MVk9lAIWQ_o/view?usp=drive_link)
 * [PostgreSQL for Everybody](https://drive.google.com/file/d/1-IKyIsq4Sb0I2GTSICQRzaT-cqb22Lpt/view?usp=sharing)
 * [Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1046c-uXJ393swVEhrjjnpV20JxtkRTVK/view?usp=drive_link)
 * [Creating Interactive Tableau Dashboards](https://www.linkedin.com/learning/certificates/9007f74213a9596028750ae08e764d0f4bb8f85abd7bc49b265b68123e16ddf8)
