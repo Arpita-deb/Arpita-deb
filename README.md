@@ -56,11 +56,11 @@
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***Core Competencies***
 <p align="left"/>
 
-  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Generating Text Data and creating Indexes, NoSQL databases, Time Series Analysis.
+  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Customer Segmentation, RFM Analysis, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, NoSQL databases, Time Series Analysis.
 
   * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Datawrapper, Alteryx.
 
-  * **Soft Skills**: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal and written communication, Inherently Curious, Fast Learner, Independent and Self Motivated. 
+  * **Soft Skills**: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal and written communication, Presentation Skills, Inherently Curious, Fast Learner, Independent and Self Motivated. 
 </p>
 <br><br>
 
