@@ -24,9 +24,9 @@
 
 * Learn about me with this short [video resume](https://drive.google.com/file/d/1FZcLgQOLv1zFBZWk8emooePrP6u-E5cC/view?usp=sharing).
 
-* I've recently completed *Alteryx Bootcamp* from Udemy and currently working on Projects as a Data Analyst Intern at Unified Mentor and Mentorness.
+* I've recently completed 1-month Data Analyst Internship at Unified Mentor and currently working as a Data Analyst Intern at Mentorness.
   
-* I have completed the **Google Advanced Data Analytics Professional Certificate Program** and **Google Data Analytics Professional Certificate program**.
+* My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Tableau, Power BI and R Programming Language.
   
 * I regularly write articles on [LinkedIn](https://linkedin.com/in/arpitadeb1811) and [Medium](https://medium.com/@arpita_deb).
 
@@ -65,6 +65,16 @@
 <br><br>
 
 ## Projects
+
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018/assets/139372731/9f129258-bad5-464f-add0-9fd4ae20bf8f"> **[AdventureWorks Sales Budget Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Budget-Analysis-2014-2016.git)**
+</p> In this project I've explored and analyzed sales data of a fictional manufacturing company AdventureWorks from 2014 to 2016 to gain insights into the company's revenue trends, product performance and customer preferences. Using Excel, Alteryx and Power BI, I analyzed Sales Budget for 2016, segmented the customers, performed RFM Analysis and created data visuals and dashboards. Finally I provided data driven insights and actionble recommendations for the company's management teams. 
+</p>
+<br><br><br>
+
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018/assets/139372731/b2b9a4cc-9725-43a6-81b6-bc65f89fc1de"> **[Charting Progress: An examination of Market Capitalization in the Indian Corporate landscape in 2018](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git)**
+</p> This assignment involves examining the competitive landscape to enhance the strategic positioning and performance of India’s top 500 firms for 2018. Using Excel, Alteryx, Power BI, Google Slides, and Canva I analyzed the data to provide a detailed view of India's corporate landscape. I’ve also discussed the project’s limitations and proposed some future directions.
+</p>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/98933352-21be-4988-a3ad-31f8eebffcec"> **[Predictive Analysis of US Regional Sales Data using Excel, Power BI, and R](https://github.com/Arpita-deb/Sales_Data_Analysis.git)**
 </p> In this analysis, I employed Microsoft Excel and Power BI to probe into the regional sales in the United States for a certain fictional company, utilized Pivot Tables and Data Visualization, and applied R Programming Language for sales forecasting.
