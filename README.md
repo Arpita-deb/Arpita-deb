@@ -22,7 +22,7 @@
 
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***About me in 30 Seconds***
 
-* Learn about me with this short [video resume](https://drive.google.com/file/d/1FZcLgQOLv1zFBZWk8emooePrP6u-E5cC/view?usp=sharing).
+* Learn about me with this short [video resume](https://drive.google.com/file/d/146n-9tOzuG6jrMbYS2ct1TCb5NxPXEi9/view?usp=sharing).
 
 * I've recently completed 1-month Data Analyst Internship at Unified Mentor and currently working as a Data Analyst Intern at Mentorness.
   
@@ -146,6 +146,9 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 <br><br><br>
 
 ## Articles
+
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/ed1e5617-8847-481a-bc99-589dfb47e4e0">**[Epidemic Analytics - Analyzing Global Covid 19 cases using SQL](https://medium.com/@arpita_deb/epidemic-analytics-530f222b1de7)**
+</p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/067af77a-949c-4830-a523-99696a5aea5a">**[Conquering Procrastination in Your Job Search - Strategies for Tackling Difficult Tasks and Minimizing Delays](https://medium.com/@arpita_deb/conquering-procrastination-in-your-job-search-0f598b333f81)**
 </p><br>
