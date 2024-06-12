@@ -66,6 +66,11 @@
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/ed1e5617-8847-481a-bc99-589dfb47e4e0"> **[Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)**
+</p> This project examines the trajectory of confirmed cases, fatalities, and recoveries from COVID-19 across different countries during the critical period of 2020 to 2021, shedding light on the varying impacts and responses observed globally. This project is done as a part of Mentorness Internship.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018/assets/139372731/9f129258-bad5-464f-add0-9fd4ae20bf8f"> **[AdventureWorks Sales Budget Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Budget-Analysis-2014-2016.git)**
 </p> In this project I've explored and analyzed sales data of a fictional manufacturing company AdventureWorks from 2014 to 2016 to gain insights into the company's revenue trends, product performance and customer preferences. Using Excel, Alteryx and Power BI, I analyzed Sales Budget for 2016, segmented the customers, performed RFM Analysis and created data visuals and dashboards. Finally I provided data driven insights and actionble recommendations for the company's management teams. 
 </p>
