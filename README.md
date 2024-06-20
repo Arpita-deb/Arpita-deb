@@ -152,6 +152,9 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Articles
 
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/a436a771-0ed2-4a7c-810b-054972ddd0c9">**[MGNREGA Data Analysis with SQL](https://medium.com/@arpita_deb/mgnrega-data-analysis-with-sql-1bff77206b83)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/ed1e5617-8847-481a-bc99-589dfb47e4e0">**[Epidemic Analytics - Analyzing Global Covid 19 cases using SQL](https://medium.com/@arpita_deb/epidemic-analytics-530f222b1de7)**
 </p><br>
 
