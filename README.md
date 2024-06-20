@@ -66,6 +66,11 @@
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/a436a771-0ed2-4a7c-810b-054972ddd0c9"> **[Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)**
+</p> This project delves into the analysis of data related to the National Rural Employment Guarantee Act (NREGA) through the application of data analytics techniques. It aims to gain valuable insights into the implementation and impact of this scheme across different states and districts in India.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/ed1e5617-8847-481a-bc99-589dfb47e4e0"> **[Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)**
 </p> This project examines the trajectory of confirmed cases, fatalities, and recoveries from COVID-19 across different countries during the critical period of 2020 to 2021, shedding light on the varying impacts and responses observed globally. This project is done as a part of Mentorness Internship.
 </p>
