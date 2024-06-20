@@ -24,7 +24,7 @@
 
 * Learn about me with this short [video resume](https://drive.google.com/file/d/146n-9tOzuG6jrMbYS2ct1TCb5NxPXEi9/view?usp=sharing).
 
-* I've recently completed 1-month Data Analyst Internship at Unified Mentor and currently working as a Data Analyst Intern at Mentorness.
+* I've recently completed Data Analyst Internships at Unified Mentor and Mentorness.
   
 * My Data Analysis toolkit includes Excel, SQL, Python, Alteryx, Tableau, Power BI and R Programming Language.
   
@@ -66,22 +66,22 @@
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/a436a771-0ed2-4a7c-810b-054972ddd0c9"> **[Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7367ca7f-333e-4a8d-8215-3c99dc2d96e4"> **[Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)**
 </p> This project delves into the analysis of data related to the National Rural Employment Guarantee Act (NREGA) through the application of data analytics techniques. It aims to gain valuable insights into the implementation and impact of this scheme across different states and districts in India.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/ed1e5617-8847-481a-bc99-589dfb47e4e0"> **[Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/1619bf61-6199-4b0b-9c17-27c2fa656e76"> **[Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)**
 </p> This project examines the trajectory of confirmed cases, fatalities, and recoveries from COVID-19 across different countries during the critical period of 2020 to 2021, shedding light on the varying impacts and responses observed globally. This project is done as a part of Mentorness Internship.
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018/assets/139372731/9f129258-bad5-464f-add0-9fd4ae20bf8f"> **[AdventureWorks Sales Budget Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Budget-Analysis-2014-2016.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/b96aba5c-a866-4326-ae5d-1de33e0c0e6d"> **[AdventureWorks Sales Budget Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Budget-Analysis-2014-2016.git)**
 </p> In this project I've explored and analyzed sales data of a fictional manufacturing company AdventureWorks from 2014 to 2016 to gain insights into the company's revenue trends, product performance and customer preferences. Using Excel, Alteryx and Power BI, I analyzed Sales Budget for 2016, segmented the customers, performed RFM Analysis and created data visuals and dashboards. Finally I provided data driven insights and actionble recommendations for the company's management teams. 
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018/assets/139372731/b2b9a4cc-9725-43a6-81b6-bc65f89fc1de"> **[Charting Progress: An examination of Market Capitalization in the Indian Corporate landscape in 2018](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/df668ac7-4784-4c5a-ae67-632200a082f2"> **[Charting Progress: An examination of Market Capitalization in the Indian Corporate landscape in 2018](https://github.com/Arpita-deb/Top_Indian_Firms_Market_Capitalization-Analysis_For_2018.git)**
 </p> This assignment involves examining the competitive landscape to enhance the strategic positioning and performance of India’s top 500 firms for 2018. Using Excel, Alteryx, Power BI, Google Slides, and Canva I analyzed the data to provide a detailed view of India's corporate landscape. I’ve also discussed the project’s limitations and proposed some future directions.
 </p>
 <br><br><br>
@@ -152,10 +152,10 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 
 ## Articles
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/NREGA-Data-Analysis/assets/139372731/a436a771-0ed2-4a7c-810b-054972ddd0c9">**[MGNREGA Data Analysis with SQL](https://medium.com/@arpita_deb/mgnrega-data-analysis-with-sql-1bff77206b83)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7367ca7f-333e-4a8d-8215-3c99dc2d96e4">**[MGNREGA Data Analysis with SQL](https://medium.com/@arpita_deb/mgnrega-data-analysis-with-sql-1bff77206b83)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/ed1e5617-8847-481a-bc99-589dfb47e4e0">**[Epidemic Analytics - Analyzing Global Covid 19 cases using SQL](https://medium.com/@arpita_deb/epidemic-analytics-530f222b1de7)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/1619bf61-6199-4b0b-9c17-27c2fa656e76">**[Epidemic Analytics - Analyzing Global Covid 19 cases using SQL](https://medium.com/@arpita_deb/epidemic-analytics-530f222b1de7)**
 </p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/067af77a-949c-4830-a523-99696a5aea5a">**[Conquering Procrastination in Your Job Search - Strategies for Tackling Difficult Tasks and Minimizing Delays](https://medium.com/@arpita_deb/conquering-procrastination-in-your-job-search-0f598b333f81)**
