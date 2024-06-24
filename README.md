@@ -150,6 +150,10 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 </p>
 <br><br><br>
 
+## Power BI Dashboards
+
+Check out my Power BI Dashboards [here](https://github.com/Arpita-deb/Power-BI-Dashboards.git).
+
 ## Articles
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7367ca7f-333e-4a8d-8215-3c99dc2d96e4">**[MGNREGA Data Analysis with SQL](https://medium.com/@arpita_deb/mgnrega-data-analysis-with-sql-1bff77206b83)**
