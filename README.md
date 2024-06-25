@@ -195,12 +195,6 @@ Check out my Power BI Dashboards [here](https://github.com/Arpita-deb/Power-BI-D
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7d72cbe-2e3d-4bfe-972c-d1b4606809c3">**[Retaining Talents, Unleashing Possibilities](https://medium.com/@debarpita1811/retaining-talents-unleashing-possibilities-b7cd77af0851)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/03e8db0e-2e8a-411d-95ba-023917b024b7">**[Do I read all the books I buy?](https://medium.com/@debarpita1811/do-i-read-all-the-books-i-buy-7e4a13f8a6e9)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/8ae49bbb-f276-4a99-a6a2-57ec33c5b22a">**[London Bike Share - What do you need to know before heading out?](https://medium.com/@debarpita1811/london-bike-share-what-do-you-need-to-know-before-heading-out-2184f03913de)**
-</p><br>
-
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/6cf6105d-eca2-457d-9fdd-7a1d8b078c5c">**[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)**
 </p><br>
 
