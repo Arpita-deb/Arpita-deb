@@ -101,12 +101,6 @@
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/06c8970b-28e9-4e73-aa67-7198a22094cf"> **[What were they buying on March 2020?](https://github.com/Arpita-deb/Departmental_store_analysis_in_R.git)**
-</p>
-The period of 2020 is marked by the global pandemic Covid-19. This is a Data Analysis with Excel and R of a hypothetical dataset of a departmental store during Covid-19. I've applied Data Cleaning, Manipulation and Visualization techniques to find out which products were more profitable. Performed descriptive statistics on the data set to analyze trends and patterns and used correlation matrices to find relation between various variables to provide recommendations for strategic business decision making.
-</p>
-<br><br><br>
-
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/c7111d1b-e0e5-43ed-8fb6-f0b6bec8ed83"> **[How can a Wellness Technology Company play it smart?](https://github.com/Arpita-deb/Bellabeat-fitness-app.git)**
 </p>
 Analyzed smart device usage data from non-Bellabeat products to gain insights on how people are using these smart devices and then selecting a Bellabeat product to apply these insights to create high level recommendations for Bellabeat marketing strategy.
