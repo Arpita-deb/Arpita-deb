@@ -71,7 +71,7 @@
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/1619bf61-6199-4b0b-9c17-27c2fa656e76"> **[Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)**
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/e0de1f6c-28cd-4b36-8648-82f5a6b80335"> **[Epidemic Analytics: Evaluating COVID-19’s Global Footprint](https://github.com/Arpita-deb/Corona-Virus-Analysis.git)**
 </p> This project examines the trajectory of confirmed cases, fatalities, and recoveries from COVID-19 across different countries during the critical period of 2020 to 2021, shedding light on the varying impacts and responses observed globally. This project is done as a part of Mentorness Internship.
 </p>
 <br><br><br>
@@ -153,7 +153,7 @@ Check out my Power BI Dashboards [here](https://github.com/Arpita-deb/Power-BI-D
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7367ca7f-333e-4a8d-8215-3c99dc2d96e4">**[MGNREGA Data Analysis with SQL](https://medium.com/@arpita_deb/mgnrega-data-analysis-with-sql-1bff77206b83)**
 </p><br>
 
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/1619bf61-6199-4b0b-9c17-27c2fa656e76">**[Epidemic Analytics - Analyzing Global Covid 19 cases using SQL](https://medium.com/@arpita_deb/epidemic-analytics-530f222b1de7)**
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/e0de1f6c-28cd-4b36-8648-82f5a6b80335">**[Epidemic Analytics - Analyzing Global Covid 19 cases using SQL](https://medium.com/@arpita_deb/epidemic-analytics-530f222b1de7)**
 </p><br>
 
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/067af77a-949c-4830-a523-99696a5aea5a">**[Conquering Procrastination in Your Job Search - Strategies for Tackling Difficult Tasks and Minimizing Delays](https://medium.com/@arpita_deb/conquering-procrastination-in-your-job-search-0f598b333f81)**
