@@ -150,6 +150,9 @@ Check out my Power BI Dashboards [here](https://github.com/Arpita-deb/Power-BI-D
 
 ## Articles
 
+* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/60006efe-29a4-4e2e-9f21-69607d80cfb6">**[Problem-Solving Made Easy: 4 Simple Tips for Tackling Everyday Challenges](https://medium.com/@arpita_deb/problem-solving-made-easy-f41464559c5c)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7367ca7f-333e-4a8d-8215-3c99dc2d96e4">**[MGNREGA Data Analysis with SQL](https://medium.com/@arpita_deb/mgnrega-data-analysis-with-sql-1bff77206b83)**
 </p><br>
 
