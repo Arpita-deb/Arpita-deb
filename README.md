@@ -144,9 +144,9 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 </p>
 <br><br><br>
 
-## Power BI Dashboards
+## Dashboards
 
-Check out my Power BI Dashboards [here](https://github.com/Arpita-deb/Power-BI-Dashboards.git).
+Check out my Power BI and Tableau Dashboards [here](https://github.com/Arpita-deb/Power-BI-Dashboards.git).
 
 ## Articles
 
