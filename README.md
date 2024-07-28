@@ -46,7 +46,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
 <code><img width="130" src="https://upload.vectorlogo.zone/logos/tableau/images/113a311a-6d5d-4b7e-9193-79807e4844e3.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> </code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"> </code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
