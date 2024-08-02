@@ -149,6 +149,9 @@ Check out my Power BI and Tableau Dashboards [here](https://github.com/Arpita-de
 
 ## Articles
 
+* <img align="left" width="100" height="50" src="https://github.com/user-attachments/assets/cbbee6e1-3141-4b02-920e-a57e09ae4a51">**[How Frequent is My Myers-Briggs Type? A Data Analysis of MBTI Personality Types: Insights and Implications](https://medium.com/@arpita_deb/how-frequent-is-my-myers-briggs-type-d188a11815f2)**
+</p><br>
+
 * <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/60006efe-29a4-4e2e-9f21-69607d80cfb6">**[Problem-Solving Made Easy: 4 Simple Tips for Tackling Everyday Challenges](https://medium.com/@arpita_deb/problem-solving-made-easy-f41464559c5c)**
 </p><br>
 
@@ -199,6 +202,7 @@ Check out my Power BI and Tableau Dashboards [here](https://github.com/Arpita-de
 <br><br><br>
 
 ## Certifications
+* [DataWarehouse - The Ultimate Guide](https://drive.google.com/file/d/1JSMRSzUQadftQolBjWXlu6kk1QDDQZ08/view?usp=drive_link)
 * [Alteryx Bootcamp](https://drive.google.com/file/d/1yYGSbue3g1cfgUf_a5148MVk9lAIWQ_o/view?usp=drive_link)
 * [PostgreSQL for Everybody](https://drive.google.com/file/d/1-IKyIsq4Sb0I2GTSICQRzaT-cqb22Lpt/view?usp=sharing)
 * [Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1046c-uXJ393swVEhrjjnpV20JxtkRTVK/view?usp=drive_link)
