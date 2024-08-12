@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
- As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Tableau, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow. This Portfolio showcases the Data Analysis and Data Science projects I have completed for academic and self-learning purposes. It also provides an overview of my skills and certificates.
+ As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Tableau, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow. This Portfolio showcases the Data Analysis and Data Science projects I have completed for my internships and self-learning purposes.
 <br><br><br>
 
 </p>
@@ -65,6 +65,11 @@
 
 ## Projects
 
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/08b671de-8bb0-49a8-9d17-89fc0ad557f5"> **[LinkedIn Analytics: Telling my LinkedIn Story with Power BI](https://github.com/Arpita-deb/LinkedIn-Analytics.git)**
+</p> In this project, I analyzed my historical LinkedIn Analytics data to gain insights into my LinkedIn Activity using Power BI, Power Query and DAX(Data Analysis Expressions) functions. I also created data visuals to tell a data story and to improve decision-making on post timing and content type for maximizing engagement.
+</p>
+<br><br><br>
+
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7367ca7f-333e-4a8d-8215-3c99dc2d96e4"> **[Mapping MGNREGA - A state-level analysis of one of world’s largest Rural Employment Scheme](https://github.com/Arpita-deb/NREGA-Data-Analysis.git)**
 </p> This project delves into the analysis of data related to the National Rural Employment Guarantee Act (NREGA) through the application of data analytics techniques. It aims to gain valuable insights into the implementation and impact of this scheme across different states and districts in India.
 </p>
@@ -76,7 +81,7 @@
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/b96aba5c-a866-4326-ae5d-1de33e0c0e6d"> **[AdventureWorks Sales Budget Analysis](https://github.com/Arpita-deb/AdventureWorks-Sales-Budget-Analysis-2014-2016.git)**
-</p> In this project I've explored and analyzed sales data of a fictional manufacturing company AdventureWorks from 2014 to 2016 to gain insights into the company's revenue trends, product performance and customer preferences. Using Excel, Alteryx and Power BI, I analyzed Sales Budget for 2016, segmented the customers, performed RFM Analysis and created data visuals and dashboards. Finally I provided data driven insights and actionble recommendations for the company's management teams. 
+</p> In this project I've explored and analyzed sales data of a fictional manufacturing company AdventureWorks from 2014 to 2016 to gain insights into the company's revenue trends, product performance and customer preferences. Using Excel, Alteryx and Power BI, I analyzed Sales Budget for 2016, segmented the customers, performed RFM Analysis and created data visuals and dashboards. 
 </p>
 <br><br><br>
 
@@ -149,69 +154,7 @@ Check out my Power BI and Tableau Dashboards [here](https://github.com/Arpita-de
 
 ## Articles
 
-* <img align="left" width="100" height="50" src="https://github.com/user-attachments/assets/cbbee6e1-3141-4b02-920e-a57e09ae4a51">**[How Frequent is My Myers-Briggs Type? A Data Analysis of MBTI Personality Types: Insights and Implications](https://medium.com/@arpita_deb/how-frequent-is-my-myers-briggs-type-d188a11815f2)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/60006efe-29a4-4e2e-9f21-69607d80cfb6">**[Problem-Solving Made Easy: 4 Simple Tips for Tackling Everyday Challenges](https://medium.com/@arpita_deb/problem-solving-made-easy-f41464559c5c)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/7367ca7f-333e-4a8d-8215-3c99dc2d96e4">**[MGNREGA Data Analysis with SQL](https://medium.com/@arpita_deb/mgnrega-data-analysis-with-sql-1bff77206b83)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Corona-Virus-Analysis/assets/139372731/e0de1f6c-28cd-4b36-8648-82f5a6b80335">**[Epidemic Analytics - Analyzing Global Covid 19 cases using SQL](https://medium.com/@arpita_deb/epidemic-analytics-530f222b1de7)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/067af77a-949c-4830-a523-99696a5aea5a">**[Conquering Procrastination in Your Job Search - Strategies for Tackling Difficult Tasks and Minimizing Delays](https://medium.com/@arpita_deb/conquering-procrastination-in-your-job-search-0f598b333f81)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/899213a9-a2dd-4e8e-ac09-7ff5fe62be50">**[The United States Regional Sales Analysis Part 1 — Exploring with Excel and Power BI](https://medium.com/@arpita_deb/the-united-states-regional-sales-analysis-29c967ae31bf)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Sales_Data_Analysis/assets/139372731/e7ad1e7a-f642-4893-9714-ab065d9db9fa">**[The United States Regional Sales Forecasting Part 2 — Predicting future sales using R](https://medium.com/@arpita_deb/the-united-states-regional-sales-forecasting-0c9341f62f28)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/5c6e86d8-3b70-4f28-8ab9-b6f9b10067a3">**[Data Analytics Career Advice: Lessons Learned from My Journey](https://medium.com/@arpita_deb/data-analytics-career-advice-lessons-learned-from-my-journey-3af99a3a9036)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Creating-Christmas-Card-in-R/assets/139372731/cff47923-ad0b-45be-a0bb-0e54c3515ae0">**[R You Ready for Christmas? : A Guide to Create Custom Cards with R](https://medium.com/@arpita_deb/r-you-ready-for-christmas-6a4191a412c1)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/020af0ba-54ef-46d9-86ef-6d0b3cbab0b1">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 1 : Data Cleaning - The Key to Unlocking Insights](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-aa62266a256d)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/cf99d735-0250-4ac8-9781-a85aa624f30b">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 2 — Designing Database to Optimize SQL Queries](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-9a0fcf9724f2)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/d52f29dc-dce1-4665-b4b5-baf5f995f374">**[Netflix Data Analysis: A Deep Dive into Streaming Trends  Part 3: Data Analysis— Extracting Facts from Figures](https://medium.com/@arpita_deb/netflix-data-analysis-a-deep-dive-into-streaming-trends-f2e2becf1c21)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/e8b546b1-a029-40e3-aba3-055b79790e14">**[6 Months into Data Analytics and What do I think about it?](https://medium.com/@arpita_deb/6-months-into-data-analytics-and-what-do-i-think-about-it-6c54baea5017)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/56602af1-04fe-4185-90ad-9cda0afc0ab8">**[From Spreadsheet to Database](https://medium.com/@arpita_deb/from-spreadsheets-to-database-c2e8dbeb6a76)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/d7d72cbe-2e3d-4bfe-972c-d1b4606809c3">**[Retaining Talents, Unleashing Possibilities](https://medium.com/@debarpita1811/retaining-talents-unleashing-possibilities-b7cd77af0851)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/6cf6105d-eca2-457d-9fdd-7a1d8b078c5c">**[Steps for Excel Data Cleaning](https://medium.com/@debarpita1811/steps-for-excel-data-cleaning-a6c6d3e55578)**
-</p><br>
-
-* <img align="left" width="100" height="50" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/47130613-af07-4aa8-b095-42b4c4fdfd09">**[Why do I want to be a Data Analyst?](https://www.linkedin.com/pulse/so-why-do-you-want-data-analyst-arpita-deb/?trackingId=7tvhhIf9SPWinjNytmOqPw%3D%3D)**
-</p>
-<br><br><br>
-
-## Certifications
-* [DataWarehouse - The Ultimate Guide](https://drive.google.com/file/d/1JSMRSzUQadftQolBjWXlu6kk1QDDQZ08/view?usp=drive_link)
-* [Alteryx Bootcamp](https://drive.google.com/file/d/1yYGSbue3g1cfgUf_a5148MVk9lAIWQ_o/view?usp=drive_link)
-* [PostgreSQL for Everybody](https://drive.google.com/file/d/1-IKyIsq4Sb0I2GTSICQRzaT-cqb22Lpt/view?usp=sharing)
-* [Google Advanced Data Analytics Certificate](https://drive.google.com/file/d/1046c-uXJ393swVEhrjjnpV20JxtkRTVK/view?usp=drive_link)
-* [Creating Interactive Tableau Dashboards](https://www.linkedin.com/learning/certificates/9007f74213a9596028750ae08e764d0f4bb8f85abd7bc49b265b68123e16ddf8)
-* [Python for Non-Programmers](https://www.linkedin.com/learning/certificates/e9c452c355fdd0d18175f7f893c54306b306758b201f70c22d464300d44ee97d)
-* [Relational Databases Essential Training](https://drive.google.com/file/d/1uXEgecbe2giUQpxB2VWB6Ad-Iy7lcIZg/view?usp=drive_link)
-* [Application of Data Analysis in Business with R Programming](https://drive.google.com/file/d/1tIQJtuuEfJLNItPPRyjOUr4XmTOgrsXa/view?usp=drive_link)
-* [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1Qkf1KQ9Q79Uv31fCmk34C4vp8oFzq2-a/view?usp=sharing)
-* [Bachelor of Technology in Electrical Engineering](https://drive.google.com/file/d/13pl9LYv8EpiuBGBiiQLjSSf4NcVgAQJQ/view?usp=sharing)
+Check out my Medium Articles [here](https://medium.com/@arpita_deb).
 
 <hr>
 <p align="center">
