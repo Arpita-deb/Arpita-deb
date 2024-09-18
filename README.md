@@ -55,15 +55,21 @@
 <img src="https://th.bing.com/th/id/R.27f7f575bd5a02e3a1558deb59538a4c?rik=Y7LSHv%2b5dNc9aQ&riu=http%3a%2f%2fs2.favim.com%2forig%2f150909%2fart-artwork-beautiful-black-and-white-Favim.com-3265813.gif&ehk=bIfYDmT4tvZl6Db0%2fxTh5Vr5%2bL5STh%2bajcRL6AGE5HE%3d&risl=&pid=ImgRaw&r=0" width="50px">&nbsp;***Core Competencies***
 <p align="left"/>
 
-  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Customer Segmentation, RFM Analysis, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, NoSQL databases, Time Series Analysis.
+  * **Methodologies Known**: Data Wrangling, Data Cleaning and Transformation, Data Visualization, Exploratory Data Analysis(EDA), Statistics, Regression Analysis, A/B Testing, Customer Segmentation, RFM Analysis, Machine Learning, Artificial Intelligence, Data Architecture, Database Design and Normalization, Time Series Analysis.
 
   * **Technical Skills**: Excel, Pivot Tables, PostgreSQL, Microsoft SQL Server, Relational Database, R (Dplyr, Tidyr, Ggplot2), Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), Tableau, Datawrapper, Alteryx.
 
-  * **Soft Skills**: Critical Thinker, Detail Oriented, Problem Solver, Strong verbal and written communication, Presentation Skills, Inherently Curious, Fast Learner, Independent and Self Motivated. 
+  * **Soft Skills**: Critical and Analytical Thinking skills, Problem Solving skills, Verbal and Written Communication, Attention to Detail, Fast Learner, Independent and Self Motivated. 
 </p>
 <br><br>
 
 ## Projects
+
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/480247a6-a36e-487e-b247-b71fefd73e39"> **[EventSphere Solutions: Event 
+Management Database Design and Implementation](https://github.com/Arpita-deb/Event-Database-Management.git)**
+</p> In this project, I designed and implemented an event management database in Microsoft Server for a fictional mid-sized event management company.
+</p>
+<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/08b671de-8bb0-49a8-9d17-89fc0ad557f5"> **[LinkedIn Analytics: Telling my LinkedIn Story with Power BI](https://github.com/Arpita-deb/LinkedIn-Analytics.git)**
 </p> In this project, I analyzed my historical LinkedIn Analytics data to gain insights into my LinkedIn Activity using Power BI, Power Query and DAX(Data Analysis Expressions) functions. I also created data visuals to tell a data story and to improve decision-making on post timing and content type for maximizing engagement.
