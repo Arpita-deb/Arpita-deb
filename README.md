@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
- As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Tableau, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and grow. This Portfolio showcases the Data Analysis and Data Science projects I have completed for my internships and self-learning purposes.
+ As a curious Data Analyst, I possess expertise in Spreadsheets, SQL, R, Python, and Power BI, coupled with strong communication, problem-solving and critical thinking skills. I thrive on adding value to my work and making a positive difference in the world through data-driven decisions. I approach challenges with humility and responsibility, always striving to improve and enjoy the process. This Portfolio showcases the Data Analysis and Data Science projects I have completed for my internships and self-learning purposes.
 <br><br><br>
 
 </p>
@@ -111,18 +111,7 @@ Management Database Design and Implementation](https://github.com/Arpita-deb/Eve
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/c7111d1b-e0e5-43ed-8fb6-f0b6bec8ed83"> **[How can a Wellness Technology Company play it smart?](https://github.com/Arpita-deb/Bellabeat-fitness-app.git)**
-</p>
-Analyzed smart device usage data from non-Bellabeat products to gain insights on how people are using these smart devices and then selecting a Bellabeat product to apply these insights to create high level recommendations for Bellabeat marketing strategy.
-</p>
-<br><br><br>
-
 ## Mini Projects:
-
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Water-Salinity-Tableau-Dashboard/assets/139372731/591b4215-22e4-4c80-bed6-8bb2366591de"> **[Navigating the Saline Waters: Sundarbans 2019](https://github.com/Arpita-deb/Water-Salinity-Tableau-Dashboard.git)**
-</p> This interactive dashboard is designed to analyze the salinity levels of tube wells and rivers within the North 24 Parganas and South 24 Parganas districts, collectively known as the Sundarban Region of the Indian Subcontinent. 
-</p>
-<br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Creating-Christmas-Card-in-R/assets/139372731/cff47923-ad0b-45be-a0bb-0e54c3515ae0"> **[R You Ready for Christmas? : A Guide to Create Custom Cards with R](https://github.com/Arpita-deb/Creating-Christmas-Card-in-R.git)**
 </p> Inspired by an article about how to create a Christmas card in R, I've created my own Christmas Card using ggplot() in R Programming Language.
@@ -134,13 +123,13 @@ Analyzed smart device usage data from non-Bellabeat products to gain insights on
 </p>
 <br><br><br>
 
-<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/56602af1-04fe-4185-90ad-9cda0afc0ab8"> **[From Spreadsheet to Database - creating database design and normalizing a csv file](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
-</p> Removing vertical representation and replication of data from a database, by normalizing it upto third normal form (3NF). Creating SQL script to automate the task of creating, reading, updating and deleting data from Books_Management database.
+<img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Arpita-deb/assets/139372731/56602af1-04fe-4185-90ad-9cda0afc0ab8"> **[From Spreadsheet to Database - A Database for my Books Collection](https://github.com/Arpita-deb/Books-Database-Normalization.git)**
+</p> Transforming an Excel file containing information about my collection of books into a PostgreSQL Database. Followed the best practices to normalize it upto Third Normal Form.
 </p>
 <br><br><br>
 
 <img align="left" width="250" height="150" src="https://github.com/Arpita-deb/Car-Price-Prediction/assets/139372731/8b7fe502-df73-4845-a030-3e4e5da6d733"> **[Car Price Prediction using Linear Regression](https://github.com/Arpita-deb/Car-Price-Prediction.git)**
-</p>What affects the price of a car? Is it its engine size or the curb weight, or its horsepower, or a combination of many elements? Let's find out by using Linear Regression technique to predict the price of car models from 1985 Ward’s Automotive Yearbook.
+</p> What affects the price of a car? Is it its engine size or the curb weight, or its horsepower, or a combination of many elements? Let's find out by using Linear Regression technique to predict the price of car models from 1985 Ward’s Automotive Yearbook.
 </p>
 <br><br><br>
 
